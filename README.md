@@ -28,9 +28,9 @@ Multiple Linear Regression
 
 Advance Linear Regression
 
-TO BE CONTINUED ..... :)
-
 Logistic Regression
+
+TO BE CONTINUED ..... :)
 
 PCA
 
