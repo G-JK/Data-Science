@@ -32,7 +32,7 @@ Logistic Regression
 
 PCA
 
-TO BE CONTINUED ..... :)
+----->  TO BE CONTINUED ..... :)
 
 KNN
 
