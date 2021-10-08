@@ -30,9 +30,9 @@ Advance Linear Regression
 
 Logistic Regression
 
-TO BE CONTINUED ..... :)
-
 PCA
+
+TO BE CONTINUED ..... :)
 
 KNN
 
