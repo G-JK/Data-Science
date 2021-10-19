@@ -32,9 +32,9 @@ Logistic Regression
 
 PCA
 
------>  TO BE CONTINUED ..... :)
-
 KNN
+
+----->  TO BE CONTINUED ..... :)
 
 Decision Tree
 
