@@ -34,9 +34,9 @@ PCA
 
 KNN
 
------>  TO BE CONTINUED ..... :)
-
 Decision Tree
+
+----->  TO BE CONTINUED ..... :)
 
 Naive Bayes
 
